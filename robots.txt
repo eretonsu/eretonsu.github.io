@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eretonsu.olico.pl/eretonsu.txt
